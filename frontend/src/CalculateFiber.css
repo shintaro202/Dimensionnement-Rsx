@@ -1,0 +1,15 @@
+@import '~leaflet/dist/leaflet.css';
+.leaflet-marker-icon, .leaflet-marker-shadow {
+  width: 25px;
+  height: 41px;
+}
+
+.map {
+    height: 400px;
+    margin-top: 20px;
+  }
+  
+  .result {
+    margin-top: 20px;
+  }
+  
